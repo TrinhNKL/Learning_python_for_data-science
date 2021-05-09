@@ -1,0 +1,3 @@
+“Ma HS”, “xeploai_TB chuan”, “xeploai_A”, “xeploai_A1”, “xeploai_B ”, “xeploai_C”, "xeploai_D” 
+NVan_A; Kha ; 2; 2; 1; 1; 2
+NVan_B; Kha ; 2; 2; 2; 1; 2
